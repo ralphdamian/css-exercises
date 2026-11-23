@@ -144,6 +144,10 @@
   height: 200px;
 }
 
+.card p {
+  padding: 5px;
+}
+
 .footer {
   grid-column: span 2;
 }
